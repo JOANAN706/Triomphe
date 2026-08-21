@@ -7,8 +7,8 @@ J'ai pour objectif de Créer des ponts entre l'agrobusiness, le numérique et l'
 Basé à *Parakou (Bénin)*, je suis passionné par l'utilisation de la technologie et des données pour résoudre des défis concrets dans le secteur agricole et le développement communautaire. Mon profil combine la gestion de projet, l'analyse de données (SQL/MEAL) et le développement numérique.
 
 ## A propos de moi
-Diplomé en Economie Agricole à l'Université de Parakou 
-2 ans d'expérience en developpement IA et en Coaching en Agrobusiness
+-Diplomé en Economie Agricole à l'Université de Parakou 
+-2 ans d'expérience en developpement IA et en Coaching en Agrobusiness
 
 ### 🛠️ Compétences & Technologies
 

@@ -8,6 +8,7 @@ Basé à *Parakou (Bénin)*, je suis passionné par l'utilisation de la technolo
 
 ## A propos de moi
 -Diplomé en Economie Agricole à l'Université de Parakou 
+
 -2 ans d'expérience en developpement IA et en Coaching en Agrobusiness
 
 ### 🛠️ Compétences & Technologies

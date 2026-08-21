@@ -1,5 +1,5 @@
-Bienvenu  
-# 👋 Moi c'est HOUNTEGNON O.A. Joanan !
+Bienvenu sur mon portfolio
+# 👋 Moi c'est HOUNTEGNON O. A.  Joanan !
 
 ### 🚀 Référent Programme | AgTech Explorer | Développeur Web & Mobile
 J'ai pour objectif de Créer des ponts entre l'agrobusiness, le numérique et l'impact communautaire.

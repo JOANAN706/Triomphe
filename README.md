@@ -53,6 +53,7 @@ Basé à *Parakou (Bénin)*, je suis passionné par l'utilisation de la technolo
 ### 📫 Me Contacter
 
 **Nom :** HOUNTEGNON O.A. Joanan
+
 **Localisation :** Parakou, Bénin  
 **LinkedIn :** (https://www.linkedin.com/in/joanan-hountegnon-5836b6375)  
 **Email :** [jhountegnon2@gmail.com](mailto:jhountegnon2@gmail.com)  
